@@ -3,6 +3,6 @@ artifacts/raw/
 artifacts/processed/
 artifacts/model/
 artifacts/weights/
-artifacts/checkpoints/
+artifacts/checkpoint/
 artifacts/logs/
 MLOPS_PROJECT_2.egg-info/
