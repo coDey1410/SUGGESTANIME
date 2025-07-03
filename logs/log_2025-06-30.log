@@ -1,0 +1,26 @@
+2025-06-30 18:29:35,971 - INFO - DataProcessing Intialized
+2025-06-30 18:29:38,790 - INFO - Data loaded sucesfully for Data Processing
+2025-06-30 18:29:39,046 - INFO - Filtered users sucesfully...
+2025-06-30 18:29:41,672 - INFO - Scalind done for Processing 
+2025-06-30 18:29:42,053 - INFO - Encoding done for Users and Anime
+2025-06-30 18:29:43,457 - INFO - Data splitted sucesfullyy
+2025-06-30 18:29:43,510 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-06-30 18:29:43,575 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-06-30 18:29:43,749 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-06-30 18:29:43,913 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-06-30 18:29:55,038 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-06-30 18:30:15,065 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-06-30 18:30:15,071 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-06-30 21:02:33,224 - INFO - DataProcessing Intialized
+2025-06-30 21:02:34,169 - INFO - Data loaded sucesfully for Data Processing
+2025-06-30 21:02:34,309 - INFO - Filtered users sucesfully...
+2025-06-30 21:02:35,218 - INFO - Scalind done for Processing 
+2025-06-30 21:02:35,306 - INFO - Encoding done for Users and Anime
+2025-06-30 21:02:35,673 - INFO - Data splitted sucesfullyy
+2025-06-30 21:02:35,687 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-06-30 21:02:35,699 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-06-30 21:02:35,749 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-06-30 21:02:35,797 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-06-30 21:02:40,886 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-06-30 21:02:45,386 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-06-30 21:02:45,394 - INFO - Data Processing Pipeline Run sucesfully .... Congrats

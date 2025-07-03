@@ -1,0 +1,3 @@
+anime.csv
+anime_with_synopsis.csv
+animelist.csv

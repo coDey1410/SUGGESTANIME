@@ -1,0 +1,30 @@
+2025-07-01 00:01:54,618 - INFO - Model Training & COMET ML initialized..
+2025-07-01 00:02:48,681 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-01 00:02:51,267 - INFO - Succesfully read the YAML file
+2025-07-01 00:02:51,267 - INFO - Loaded configuration from config.yaml
+2025-07-01 00:02:51,267 - ERROR - Error occurfed during model architecture 'NoneType' object is not subscriptable
+2025-07-01 00:02:51,268 - ERROR - Error in /Users/utsavdey/Desktop/MLOPs-proj/src/base_model.py , line 19 : Failed to create model
+2025-07-01 00:05:50,569 - INFO - Model Training & COMET ML initialized..
+2025-07-01 00:06:18,515 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-01 00:06:20,571 - INFO - Succesfully read the YAML file
+2025-07-01 00:06:20,572 - INFO - Loaded configuration from config.yaml
+2025-07-01 00:06:20,772 - INFO - Model created sucesfully....
+2025-07-01 00:07:10,650 - INFO - Model training Completedd.....
+2025-07-01 00:07:10,653 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-01 00:07:10,747 - INFO - Model saved to artifacts/model/model.h5
+2025-07-01 00:07:10,752 - INFO - Extracting weights for user_embedding
+2025-07-01 00:07:10,757 - INFO - Extracting weights for anime_embedding
+2025-07-01 00:07:10,781 - ERROR - 'ModelTraining' object has no attribute 'experiment'
+2025-07-01 00:07:10,781 - ERROR - Error in /Users/utsavdey/Desktop/MLOPs-proj/src/model_training.py , line 127 : Error during saving model and weights Process
+2025-07-01 00:09:32,392 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+2025-07-01 00:09:40,587 - INFO - Model Training & COMET ML initialized..
+2025-07-01 00:09:40,849 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-01 00:09:40,875 - INFO - Succesfully read the YAML file
+2025-07-01 00:09:40,875 - INFO - Loaded configuration from config.yaml
+2025-07-01 00:09:41,044 - INFO - Model created sucesfully....
+2025-07-01 00:10:39,833 - INFO - Model training Completedd.....
+2025-07-01 00:10:39,838 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-07-01 00:10:39,992 - INFO - Model saved to artifacts/model/model.h5
+2025-07-01 00:10:40,000 - INFO - Extracting weights for user_embedding
+2025-07-01 00:10:40,005 - INFO - Extracting weights for anime_embedding
+2025-07-01 00:10:40,216 - INFO - User and Anime weights saved sucesfully....
